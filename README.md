@@ -1,4 +1,4 @@
-# AI Based Business Lovation Selector for City of Toronto
+# AI Based Business Location Selector for City of Toronto
 
 This is a personal project that I worked on along with University to help some friends in selecting the best neightbourhood for opening their sports equipment shop.
 

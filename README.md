@@ -4,7 +4,8 @@ This is a personal project that I worked on along with University to help some f
 
 # Implementation explained:
 ## Data Collection
-# Neighbourhood Information
+
+### Neighbourhood Information
 - I utlized web scrapping to get the information of Toronto Neighbourhoods from wikipedia
 
 ### City Demographic Data

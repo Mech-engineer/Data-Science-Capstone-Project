@@ -7,18 +7,18 @@ This is a personal project that I worked on along with University to help some f
 # Neighbourhood Information
 - I utlized web scrapping to get the information of Toronto Neighbourhoods from wikipedia
 
-# City Demographic Data
+### City Demographic Data
 - City of toronto opensource data provides information on demographic data in different neighbourhood of the regions
 
-# Local Business Data
+### Local Business Data
 
 - Foursquare API was utilized to help gain information on local businesses in different neighbourhood.
 
-# Data Processing, visualization
+### Data Processing, visualization
 
 Different python libraries such as pandas, numpy, folium, matplotlib were used to clean and process the data for visualizations
 
-# Modelling
+### Modelling
 
 For modelling I used unsupervised learning based technique: K-Means clustering to cluster the neighbourhood.
 
